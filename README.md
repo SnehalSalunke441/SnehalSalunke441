@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-# Hi there 👋
-
 I'm passionate about coding and working on diverse projects involving multiple programming languages. Here's an overview of the languages I use in my GitHub projects:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnehalSalunke441&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnehalSalunke441&layout=compact&theme=tokyonight)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
